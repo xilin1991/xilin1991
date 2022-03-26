@@ -12,13 +12,13 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 ## News
 ***
 * One paper on rPPG estimation accepted by FG2020 (Poster)
-* Our <a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">MIHR database</a> for remote HR estimation has been released
+* Our <a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">MIHR dataset</a> for remote HR estimation has been released
 
 ## Publications
 ***
 * Huaguang Yang, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan, Weimin Yang, **The research on intelligent monitoring system of key tire parameters for automotive driving safety based on vehicular networking**, In 2015 Information Technology and Mechatronics Engineering Conference. Atlantis Press. [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">paper</a>]
 
-* **L. Xi**, W. Chen, C. Zhao, X. Wu and J. Wang, **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**, 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), Buenos Aires, Argentina, 2020, pp. 1-7, doi: 10.1109/FG47880.2020.00076. [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">paper</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">database</a>]
+* **L. Xi**, W. Chen, C. Zhao, X. Wu and J. Wang, **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**, 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), Buenos Aires, Argentina, 2020, pp. 1-7, doi: 10.1109/FG47880.2020.00076. [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">paper</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">dataset</a>]
 
 ## Projects
 ***
