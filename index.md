@@ -3,7 +3,8 @@ My name is Lin Xi. I am a Ph.D. candidate in the School of Automation Science an
 
 **Email**: xilin1991[at]buaa[dot]edu[dot]cn, xilin991[at]gmail[dot]com
 
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[Google Scholar]</a>
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[<font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">G</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">o</font><font color="#F4B400" data-darkreader-inline-color="" style="--darkreader-inline-color:#ffc521;">o</font><font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">g</font><font color="#0F9D58" data-darkreader-inline-color="" style="--darkreader-inline-color:#63f0ab;">l</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">e</font> Scholar]</a>
+    
 
 ## Biography
 ***
