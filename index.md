@@ -19,7 +19,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 ***
 * **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
   <br>
-  Huaguang Yang*, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan and Weimin Yang
+  Huaguang Yang\*, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan and Weimin Yang
   <br>
   In *ITOEC 2015*
   <br>
@@ -27,7 +27,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 
 * **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**
   <br>
-  **Lin Xi**, Weihai Chen, Changchen Zhao*, Xingming Wu and Jianhua Wang
+  **Lin Xi**, Weihai Chen, Changchen Zhao\*, Xingming Wu and Jianhua Wang
   <br>
   In *FG 2020*
   <br>
@@ -35,7 +35,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 
 * **Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**
   <br>
-  **Lin Xi**, Weihai Chen*, Xingming Wu, Zhong Liu and Zhengguo Li
+  **Lin Xi**, Weihai Chen\*, Xingming Wu, Zhong Liu and Zhengguo Li
   <br>
   In *ArXiv*
   <br>
