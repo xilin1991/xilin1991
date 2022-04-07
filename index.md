@@ -17,9 +17,29 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 
 ## Publications
 ***
-* Huaguang Yang, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan, Weimin Yang, **The research on intelligent monitoring system of key tire parameters for automotive driving safety based on vehicular networking**, In 2015 Information Technology and Mechatronics Engineering Conference. Atlantis Press. [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">paper</a>]
+* **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
+  <br>
+  Huaguang Yang, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan* and Weimin Yang
+  <br>
+  In *ITOEC 2015*
+  <br>
+  [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">Paper</a>]
 
-* **L. Xi**, W. Chen, C. Zhao, X. Wu and J. Wang, **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**, 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), Buenos Aires, Argentina, 2020, pp. 1-7, doi: 10.1109/FG47880.2020.00076. [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">paper</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">dataset</a>]
+* **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**
+  <br>
+  **Lin Xi**, Weihai Chen, Changchen Zhao*, Xingming Wu and Jianhua Wang
+  <br>
+  In *FG 2020*
+  <br>
+  [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">Paper</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">Dataset</a>]
+
+* **Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**
+  <br>
+  **Lin Xi**, Weihai Chen*, Xingming Wu, Zhong Liu and Zhengguo Li
+  <br>
+  In *ArXiv*
+  <br>
+  [<a href="https://arxiv.org/abs/2204.02791" target="_blank">Paper</a>] [<a href="https://github.com/xilin1991/IMCNet" target="_blank">Code</a>]
 
 ## Projects
 ***
