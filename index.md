@@ -19,7 +19,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 ***
 * **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
   <br>
-  Huaguang Yang, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan* and Weimin Yang
+  Huaguang Yang*, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan and Weimin Yang
   <br>
   In *ITOEC 2015*
   <br>
