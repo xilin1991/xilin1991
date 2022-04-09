@@ -21,7 +21,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   Huaguang Yang\*, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan and Weimin Yang
   <br>
-  In *ITOEC 2015*
+  In *ITOEC, 2015*
   <br>
   [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">Paper</a>]
 
@@ -29,7 +29,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   **Lin Xi**, Weihai Chen, Changchen Zhao\*, Xingming Wu and Jianhua Wang
   <br>
-  In *FG 2020*
+  In *FG, 2020*
   <br>
   [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">Paper</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">Dataset</a>]
 
@@ -37,9 +37,9 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   **Lin Xi**, Weihai Chen\*, Xingming Wu, Zhong Liu and Zhengguo Li
   <br>
-  In *ArXiv*
+  In *TCSVT, 2022*
   <br>
-  [<a href="https://arxiv.org/abs/2204.02791" target="_blank">Paper</a>] [<a href="https://github.com/xilin1991/IMCNet" target="_blank">Code</a>]
+  [<a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/IMCNet" target="_blank">Code</a>]
 
 ## Projects
 ***
