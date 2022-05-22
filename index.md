@@ -12,8 +12,10 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 
 ## News
 ***
-* One paper on rPPG estimation accepted by FG2020 (Poster)
-* Our <a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">MIHR dataset</a> for remote HR estimation has been released
+* [May. 2022] A <a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453322000716" target="_blank">rPPG algorithm</a> for remote heart rate estimation in low light environments is accepted by *MEP*.
+* [May. 2022] <a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">IMCNet</a> for video object segmentation is accepted by *TCSVT*.
+* [Mar. 2020] One paper for rPPG estimation accepted by FG2020 (Poster).
+* [Feb. 2020] Our <a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">MIHR dataset</a> for remote HR estimation has been released.
 
 ## Publications
 ***
@@ -40,6 +42,15 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   In *TCSVT, 2022*
   <br>
   [<a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/IMCNet" target="_blank">Code</a>]
+
+* **Weighted Combination and Singular Spectrum Analysis Based Remote Photoplethysmography Pulse Extraction in Low-light Environments**
+  <br>
+  **Lin Xi**, Xingming Wu, Weihai Chen\*, Jianhua Wang and Changchen Zhao\*
+  <br>
+  In *MEP, 2022*
+  <br>
+  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453322000716" target="_blank">Paper</a>]
+
 
 ## Projects
 ***
