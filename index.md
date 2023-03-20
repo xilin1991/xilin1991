@@ -19,21 +19,13 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 
 ## Publications
 ***
-* **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
+* **Weighted Combination and Singular Spectrum Analysis Based Remote Photoplethysmography Pulse Extraction in Low-light Environments**
   <br>
-  Huaguang Yang\*, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan and Weimin Yang
+  **Lin Xi**, Xingming Wu, Weihai Chen\*, Jianhua Wang and Changchen Zhao\*
   <br>
-  In *ITOEC, 2015*
+  In *MEP, 2022*
   <br>
-  [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">Paper</a>]
-
-* **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**
-  <br>
-  **Lin Xi**, Weihai Chen, Changchen Zhao\*, Xingming Wu and Jianhua Wang
-  <br>
-  In *FG, 2020*
-  <br>
-  [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2303.09336" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">Dataset</a>]
+  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453322000716" target="_blank">Paper</a>]
 
 * **Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**
   <br>
@@ -43,14 +35,22 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   [<a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/IMCNet" target="_blank">Code</a>]
 
-* **Weighted Combination and Singular Spectrum Analysis Based Remote Photoplethysmography Pulse Extraction in Low-light Environments**
-  <br>
-  **Lin Xi**, Xingming Wu, Weihai Chen\*, Jianhua Wang and Changchen Zhao\*
-  <br>
-  In *MEP, 2022*
-  <br>
-  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453322000716" target="_blank">Paper</a>]
 
+* **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**
+  <br>
+  **Lin Xi**, Weihai Chen, Changchen Zhao\*, Xingming Wu and Jianhua Wang
+  <br>
+  In *FG, 2020*
+  <br>
+  [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2303.09336" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/Large-scale-Multi-illumination-HR-Database" target="_blank">Dataset</a>]
+
+* **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
+  <br>
+  Huaguang Yang\*, **Lin Xi**, Qingquan He, Fengfeng Liu, Ming Yang, Hua Yan and Weimin Yang
+  <br>
+  In *ITOEC, 2015*
+  <br>
+  [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">Paper</a>]
 
 ## Projects
 ***
