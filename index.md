@@ -22,7 +22,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
 ***
 * **Online Unsupervised Video Object Segmentation via Contrastive Motion Clustering**
   <br>
-  **Lin Xi**, Weihai Chen\*, Xingming Wu, Xingming Wu, Zhong Liu and Zhengguo Li
+  **Lin Xi**, Weihai Chen\*, Xingming Wu, Zhong Liu and Zhengguo Li
   <br>
   In *TCSVT, 2023*
   <br>
