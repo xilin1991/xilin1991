@@ -26,7 +26,7 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   In *TCSVT, 2023*
   <br>
-  [<a href="https://ieeexplore.ieee.org/document/10159996" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2306.12048" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/CluterNet" target="_blank">Code</a>]
+  [<a href="https://ieeexplore.ieee.org/document/10159996" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2306.12048" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/ClusterNet" target="_blank">Code</a>]
 
 * **Weighted Combination and Singular Spectrum Analysis Based Remote Photoplethysmography Pulse Extraction in Low-light Environments**
   <br>
