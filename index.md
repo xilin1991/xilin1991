@@ -3,8 +3,9 @@ My name is Lin Xi. I am a Ph.D. candidate in the School of Automation Science an
 
 **Email**: xilin1991[at]buaa[dot]edu[dot]cn, xilin991[at]gmail[dot]com
 
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[<font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">G</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">o</font><font color="#F4B400" data-darkreader-inline-color="" style="--darkreader-inline-color:#ffc521;">o</font><font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">g</font><font color="#0F9D58" data-darkreader-inline-color="" style="--darkreader-inline-color:#63f0ab;">l</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">e</font> Scholar]</a>
-    
+<!-- <a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[<font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">G</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">o</font><font color="#F4B400" data-darkreader-inline-color="" style="--darkreader-inline-color:#ffc521;">o</font><font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">g</font><font color="#0F9D58" data-darkreader-inline-color="" style="--darkreader-inline-color:#63f0ab;">l</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">e</font> Scholar]</a> -->
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/google%20scholar-Lin%20Xi-blue?logo=google%20scholar&logoColor=light%20blue&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Dzh-CN%26user%3DP0TIVUkAAAAJ">
+</a>
 
 ## Biography
 ***
@@ -26,7 +27,8 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   In *TCSVT, 2023*
   <br>
-  [<a href="https://ieeexplore.ieee.org/document/10159996" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2306.12048" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/ClusterNet" target="_blank">Code</a>]
+  <a href="https://ieeexplore.ieee.org/document/10159996" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/IEEE-TCSVT-blue?logo=IEEE&logoColor=%2300629B"></a> <a href="https://arxiv.org/abs/2306.12048" target="_blank"><img src="https://img.shields.io/badge/arXiv-2306.12048-b31b1b?style=flat&logo=arXiv&logoColor=%23B31B1B"></a> <a href="https://github.com/xilin1991/ClusterNet" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-ClusterNet-green?logo=github&logoColor=%23181717"></a>
+  <br>
 
 * **Weighted Combination and Singular Spectrum Analysis Based Remote Photoplethysmography Pulse Extraction in Low-light Environments**
   <br>
@@ -34,7 +36,8 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   In *MEP, 2022*
   <br>
-  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453322000716" target="_blank">Paper</a>]
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453322000716" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Elsevier-MEP-blue?logo=Elsevier&logoColor=%23FF6C00"></a>
+  <br>
 
 * **Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**
   <br>
@@ -42,8 +45,8 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   In *TCSVT, 2022*
   <br>
-  [<a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://github.com/xilin1991/IMCNet" target="_blank">Code</a>]
-
+  <a href="https://ieeexplore.ieee.org/document/9751597" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/IEEE-TCSVT-blue?logo=IEEE&logoColor=%2300629B"></a> <a href="https://arxiv.org/abs/2204.02791" target="_blank"><img src="https://img.shields.io/badge/arXiv-2204.02791-b31b1b?style=flat&logo=arXiv&logoColor=%23B31B1B"></a> <a href="https://github.com/xilin1991/IMCNet" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-IMCNet-green?logo=github&logoColor=%23181717"></a>
+  <br>
 
 * **Image Enhancement for Remote Photoplethysmography in a Low-Light Environment**
   <br>
@@ -51,7 +54,8 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   In *FG, 2020*
   <br>
-  [<a href="https://ieeexplore.ieee.org/document/9320298" target="_blank">Paper</a>] [<a href="https://arxiv.org/abs/2303.09336" target="_blank">ArXiv</a>] [<a href="https://xilin1991.github.io/Large-scale-Multi-illumination-HR-Database/" target="_blank">Dataset</a>]
+  <a href="https://ieeexplore.ieee.org/document/9320298" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/IEEE-FG2020-blue?logo=IEEE&logoColor=%2300629B"></a> <a href="https://arxiv.org/abs/2303.09336" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.09336-b31b1b?style=flat&logo=arXiv&logoColor=%23B31B1B"></a> <a href="https://xilin1991.github.io/Large-scale-Multi-illumination-HR-Database/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dataset-BUAA--MIHR-blue?logo=databricks&logoColor=%23FF3621"></a>
+  <br>
 
 * **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
   <br>
@@ -59,7 +63,8 @@ I received my B.Eng. degree in Measurement and Control Technology and Instrument
   <br>
   In *ITOEC, 2015*
   <br>
-  [<a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank">Paper</a>]
+  <a href="https://www.atlantis-press.com/proceedings/itoec-15/16821" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Atlantis%20Press-ITOEC-blue"></a>
+  <br>
 
 ## Projects
 ***
