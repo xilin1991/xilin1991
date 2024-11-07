@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lin Xi.
-- 👀 I’m interested in computer vision and video segmentation.
-- 🌱 My current research focus is video object segmentation and camera-based remote health monitoring.
-- 💞️ I am a Ph.D. candidate in the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China.
-- 📫 **Email**: xilin1991[at]buaa[dot]edu[dot]cn, xilin991[at]gmail[dot]com
+- 👀 I’m interested in computer vision and image/video segmentation.
+- 🌱 My current research focus is biomedical image segmentation and video object segmentation.
+- 💞️ I am currently a senior research associate in the School of Computing Sciences at the University of East Anglia, Norwich, UK.
+- 📫 **Email**: l.xi[at]uea[dot]ac[dot]uk, xilin[dot]chibchin[at]outlook[dot]com
 - 🔗 **HomePage**: <a href="https://xilin1991.github.io/xilin1991/" target="_blank">https://xilin1991.github.io/xilin1991</a>
 
 <!---
