@@ -1,7 +1,7 @@
 # Welcome to the Xilin's homepage!
 Lin Xi, Senior Research Associate, School of Computing Sciences, University of East Anglia.
 
-**Email**: l.xi[at]uea[dot]ac[dot]uk, xilin.chibchin[at]outlook[dot]com
+**Email**: l[dot]xi[at]uea[dot]ac[dot]uk, xilin[dot]chibchin[at]outlook[dot]com
 
 <!-- <a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[<font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">G</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">o</font><font color="#F4B400" data-darkreader-inline-color="" style="--darkreader-inline-color:#ffc521;">o</font><font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">g</font><font color="#0F9D58" data-darkreader-inline-color="" style="--darkreader-inline-color:#63f0ab;">l</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">e</font> Scholar]</a> -->
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-Lin%20Xi-%234285F4?logo=googlescholar&logoColor=%234285F4"></a>
