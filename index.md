@@ -1,7 +1,7 @@
 # Welcome to the Xilin's homepage!
-My name is Lin Xi. I am a Ph.D. candidate in the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China.
+Lin Xi, Senior Research Associate, School of Computing Sciences, University of East Anglia.
 
-**Email**: xilin1991[at]buaa[dot]edu[dot]cn, xilin991[at]gmail[dot]com
+**Email**: l.xi[at]uea[dot]ac[dot]uk, xilin.chibchin[at]outlook[dot]com
 
 <!-- <a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[<font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">G</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">o</font><font color="#F4B400" data-darkreader-inline-color="" style="--darkreader-inline-color:#ffc521;">o</font><font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">g</font><font color="#0F9D58" data-darkreader-inline-color="" style="--darkreader-inline-color:#63f0ab;">l</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">e</font> Scholar]</a> -->
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/google%20scholar-Lin%20Xi-blue?logo=google%20scholar&logoColor=light%20blue&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Dzh-CN%26user%3DP0TIVUkAAAAJ">
@@ -9,7 +9,11 @@ My name is Lin Xi. I am a Ph.D. candidate in the School of Automation Science an
 
 ## Biography
 ***
-I received my B.Eng. degree in Measurement and Control Technology and Instrumentation from Beijing University of Chemical Technology (BUCT), Beijing, China, in 2014 and M.E. degree in Mechanical Engineering from BUCT, Beijing, China, in 2017. Now, I am a Ph.D. candidate in the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China, under the supervision of Prof. <a href="http://irmct.buaa.edu.cn/sysgk2/dsfc.htm" target="_blank">Weihai Chen</a> in <a href="http://irmct.buaa.edu.cn/" target="_blank">IR&MCT Lab</a>. My areas of expertise include video object segmentation, non-contact physiological signal monitoring, signal/image processing, computer vision. The current research focus is video object segmentation and camera-based remote health monitoring (e.g. vital signs).
+I am currently a senior research associate in the School of Computing Sciences at University of East Anglia, working with Prof. <a href="https://research-portal.uea.ac.uk/en/persons/yingliang-ma" target="_blank">Yingliang Ma</a> on biomedical image processing.
+
+Before that, I received Ph.D. Degree from the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China, under the supervision of Prof. <a href="http://irmct.buaa.edu.cn/sysgk2/dsfc.htm" target="_blank">Weihai Chen</a> and Prof. <a href="https://scholar.google.com.sg/citations?user=LiUX7WQAAAAJ&hl=en" target="_blank">Zhengguo Li</a>.
+
+My research interests include computer vision and machine learning, especially for image/video segmentation and non-contact physiological signal monitoring. The current research focus is biomedical image segmentation and video object segmentation.
 
 ## News
 ***
