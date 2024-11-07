@@ -8,11 +8,11 @@ Lin Xi, Senior Research Associate, School of Computing Sciences, University of E
 
 ## Biography
 ***
-I am currently a senior research associate in the School of Computing Sciences at University of East Anglia, working with Prof. <a href="https://research-portal.uea.ac.uk/en/persons/yingliang-ma" target="_blank">Yingliang Ma</a> on biomedical image processing.
+I am currently a senior research associate in the School of Computing Sciences at the University of East Anglia, working with Prof. <a href="https://research-portal.uea.ac.uk/en/persons/yingliang-ma" target="_blank">Yingliang Ma</a> on biomedical image processing.
 
-Before that, I received Ph.D. Degree from the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China, under the supervision of Prof. <a href="http://irmct.buaa.edu.cn/sysgk2/dsfc.htm" target="_blank">Weihai Chen</a> and Prof. <a href="https://scholar.google.com.sg/citations?user=LiUX7WQAAAAJ&hl=en" target="_blank">Zhengguo Li</a>.
+Before that, I received my Ph.D. degree from the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China, under the supervision of Prof. <a href="http://irmct.buaa.edu.cn/sysgk2/dsfc.htm" target="_blank">Weihai Chen</a> and Prof. <a href="https://scholar.google.com.sg/citations?user=LiUX7WQAAAAJ&hl=en" target="_blank">Zhengguo Li</a>.
 
-My research interests include computer vision and machine learning, especially for image/video segmentation and non-contact physiological signal monitoring. The current research focus is biomedical image segmentation and video object segmentation.
+My research interests include computer vision and machine learning, especially for image/video segmentation and non-contact physiological signal monitoring. The current research focus is on biomedical image segmentation and video object segmentation.
 
 ## News
 ***
