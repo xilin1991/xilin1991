@@ -4,8 +4,7 @@ Lin Xi, Senior Research Associate, School of Computing Sciences, University of E
 **Email**: l.xi[at]uea[dot]ac[dot]uk, xilin.chibchin[at]outlook[dot]com
 
 <!-- <a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank">[<font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">G</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">o</font><font color="#F4B400" data-darkreader-inline-color="" style="--darkreader-inline-color:#ffc521;">o</font><font color="#4285F4" data-darkreader-inline-color="" style="--darkreader-inline-color:#4ba0f4;">g</font><font color="#0F9D58" data-darkreader-inline-color="" style="--darkreader-inline-color:#63f0ab;">l</font><font color="#DB4437" data-darkreader-inline-color="" style="--darkreader-inline-color:#de5448;">e</font> Scholar]</a> -->
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/google%20scholar-Lin%20Xi-blue?logo=google%20scholar&logoColor=light%20blue&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Dzh-CN%26user%3DP0TIVUkAAAAJ">
-</a>
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=P0TIVUkAAAAJ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-Lin%20Xi-%234285F4?logo=googlescholar&logoColor=%234285F4"></a>
 
 ## Biography
 ***
@@ -58,7 +57,7 @@ My research interests include computer vision and machine learning, especially f
   <br>
   In *FG, 2020*
   <br>
-  <a href="https://ieeexplore.ieee.org/document/9320298" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/IEEE-FG2020-blue?logo=IEEE&logoColor=%2300629B"></a> <a href="https://arxiv.org/abs/2303.09336" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.09336-b31b1b?style=flat&logo=arXiv&logoColor=%23B31B1B"></a> <a href="https://xilin1991.github.io/Large-scale-Multi-illumination-HR-Database/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dataset-BUAA--MIHR-blue?logo=databricks&logoColor=%23FF3621"></a>
+  <a href="https://ieeexplore.ieee.org/document/9320298" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/IEEE-FG2020-blue?logo=IEEE&logoColor=%2300629B"></a> <a href="https://arxiv.org/abs/2303.09336" target="_blank"><img src="https://img.shields.io/badge/arXiv-2303.09336-b31b1b?style=flat&logo=arXiv&logoColor=%23B31B1B"></a> <a href="https://xilin1991.github.io/Large-scale-Multi-illumination-HR-Database/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dataset-BUAA--MIHR-yellow?logo=databricks&logoColor=%23FF3621"></a>
   <br>
 
 * **The Research on Intelligent Monitoring System of Key Tire Parameters for Automotive Driving Safety Based on Vehicular Networking**
